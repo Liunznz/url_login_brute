@@ -1,4 +1,3 @@
-# url_login_brute
 一款图形化的Web登陆页面弱口令批量爆破工具，指定登陆页面的url即可，支持解析HTML表单字段，支持普通登录与短信验证码登录，提供四种爆破模式、字典编码、表单自动解析等功能。已在多个本地靶场（如 VulHub、Pikachu 等）中验证通过。
 
 # Web 登录页面弱口令爆破工具
@@ -44,6 +43,20 @@
 
 ### 3. 命令行参数
 命令行输入url_login_brute.exe author回车   # 查看作者信息
+
+### 4. 🖼️ 界面预览
+目标设置
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/0b5c94d6-729d-4420-b105-2ec77bd22e38" />
+登录配置
+<img width="1551" height="824" alt="image" src="https://github.com/user-attachments/assets/79115ac4-cd32-43c8-8976-1868022e08f7" />
+字典设置
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/2a2a1676-28f2-4ef3-aaf7-307fe73bc94f" />
+爆破模式与规则
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/1ef281da-8353-4013-9c88-87678cb1b67d" />
+扫描进度
+<img width="1543" height="830" alt="image" src="https://github.com/user-attachments/assets/6314b081-e6e8-44a5-ae6f-e20fd45618ac" />
+扫描结果
+<img width="1530" height="819" alt="image" src="https://github.com/user-attachments/assets/25354426-bc98-4089-8aa3-b239105120d1" />
 
 ⚠️ 安全使用准则
 
