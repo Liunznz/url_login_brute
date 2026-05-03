@@ -59,6 +59,11 @@
 扫描结果
 <img width="1530" height="819" alt="image" src="https://github.com/user-attachments/assets/25354426-bc98-4089-8aa3-b239105120d1" />
 
+### 5. 🖼️ 我的微信公众号
+扫码关注一下哟，拴q(谐音：Thank you❤)
+<img width="430" height="430" alt="网络安全剖析" src="https://github.com/user-attachments/assets/4f2fb950-ac4f-421c-9c73-09e587f9cfa6" />
+
+
 ⚠️ 安全使用准则
 
 1. 合法授权
